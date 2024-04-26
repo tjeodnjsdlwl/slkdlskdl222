@@ -1,0 +1,67 @@
+
+@font-face {
+  font-family: 'TWKEveret';
+  src: url(../font/c074ebc4f8a60050-s.p.woff2) format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'IvyPresto';
+  src: url(../font/9431a58d2dabef30-s.p.woff2) format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Fallback';
+  src: url(../font/45c7e5f62fcd5e3e-s.p.woff2) format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'NeueWorld';
+  src: url(../font/Orelo-SemiWide\ \(1\).woff2) format('woff2');
+  font-weight: 400;
+}
+
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url(../font/Pretendard-Light.woff2) format('woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url(../font/Pretendard-Regular.woff2) format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url(../font/Pretendard-Medium.woff2) format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url(../font/Pretendard-SemiBold.woff2) format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url(../font/Pretendard-Bold.woff2) format('woff2');
+  font-weight: 700;
+}
+
+
+@font-face {
+  font-family: 'faktum';
+  src: url(../font/faktum-thin.8abddf08.woff2) format('woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'faktum';
+  src: url(../font/faktum-regular.a92a0c5a.woff2) format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'faktum';
+  src: url(../font/faktum-regular-wide.b29bfd57.woff2) format('woff2');
+  font-weight: 500;
+}
+
+
